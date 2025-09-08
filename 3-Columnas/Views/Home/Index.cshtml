@@ -1,0 +1,111 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h4>Ejemplo 1: Alineando la fila</h4>
+
+<!-- align-items-start Esta propiedad css pone todos los elementos hijos al inicio del bloque padre -->
+
+<div class="row align-items-start">
+    <div class="col">
+        Columna 1
+    </div>
+    <div class="col">
+        Columna 2
+    </div>
+    <div class="col">
+        Columna 3
+    </div>
+</div>
+
+<!-- align-items-center Esta propiedad css pone todos los elementos hijos en el centro del bloque padre -->
+
+<div class="row align-items-center">
+    <div class="col">
+        Columna 1
+    </div>
+    <div class="col">
+        Columna 2
+    </div>
+    <div class="col">
+        Columna 3
+    </div>
+</div>
+
+
+<!-- align-items-end Esta propiedad css pone todos los elementos hijos al final del bloque padre -->
+
+<div class="row align-items-end">
+    <div class="col">
+        Columna 1
+    </div>
+    <div class="col">
+        Columna 2
+    </div>
+    <div class="col">
+        Columna 3
+    </div>
+</div>
+
+
+<h4>Ejemplo 2: Alineando las columnas horizontalmente</h4>
+
+<div class="row">
+
+    <!-- align-self-start Esta propiedad css posiciona horizontalmente al elemento hijo en la parte superior del 
+         contenedor padre
+    -->
+
+    <div class="col align-self-start">
+        Columna 1
+    </div>
+
+    <!-- align-self-center Esta propiedad css posiciona horizontalmente al elemento hijo al centro del contenedor 
+        padre
+    -->
+
+    <div class="col align-self-center">
+        Columna 2
+    </div>
+
+    <!-- align-self-end Esta propiedad css posiciona horizontalmente al elemento hijo en la parte inferior del 
+        contenedor padre
+    -->
+    <div class="col align-self-end">
+        Columna 3
+    </div>
+</div>
+
+
+<!-- Offset: Es una propiedad de bootstrap que nos permite agregar espacios entre columnas
+   para que el contenido no se vea tan pegado, este siempre separa desde la parte izquierda como un padding-left
+-->
+
+<h4>Ejemplo 3: Offset O espacio entre columnas</h4>
+
+<div class="row">
+    <div class="col-4">
+         Columna 1
+    </div>
+
+    <div class="col-4 offset-3">
+        Columna 2
+    </div>
+</div>
+
+<!-- ms-auto: Es una propiedad de bootstrap que separa los elmentos automaticamente es mejor alternativa
+    que offset, ya que esta los separa dependiendo del espacio que tenga disponible y no como el offset que tienes
+    que hacerlo manualmente
+-->
+
+<h4>Ejemplo 4: ms-auto Auto Margen entre columnas</h4>
+
+<div class="row">
+    <div class="col-3">
+        Columna 1
+    </div>
+
+    <div class="col-4 ms-auto">
+        Columna 2
+    </div>
+</div>
