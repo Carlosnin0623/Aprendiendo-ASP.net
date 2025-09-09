@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- 
+ Img: <img  /> Es la etiqueta usada en html para incluir imagenes en la pagina, ademas
+ se le debe asignar el atributo src="", que sirve para poner la ruta de la imagen, y
+ tambien debemos incluir el atributo alt="Foto mapa", que es un nombre que aparece si la imagen
+ no se carga bien.
+
+ img-fluid: class="img-fluid" Es una clase que nos da bootstrap que permite redimencionar la imagen
+ correctamente según el ancho de las columnas, simpre se pone esta clase
+
+-->
+
+<h4>Ejemplo 1: Imagenes en columnas</h4>
+
+<div class="row gy-3">
+    <div class="col-md-6 col-xl-3">
+        <img class="img-fluid" src="https://embamex.sre.gob.mx/republicadominicana/images/stories/mapa%20rep%20dom%202.jpg" alt="Foto mapa"/>
+    </div>
+
+    <div class="col-md-6 col-xl-3">
+        <img class="img-fluid" src="https://embamex.sre.gob.mx/republicadominicana/images/stories/mapa%20rep%20dom%202.jpg" alt="Foto mapa" />
+    </div>
+
+    <div class="col-md-6 col-xl-3">
+        <img class="img-fluid" src="https://embamex.sre.gob.mx/republicadominicana/images/stories/mapa%20rep%20dom%202.jpg" alt="Foto mapa" />
+    </div>
+
+    <div class="col-md-6 col-xl-3">
+        <img class="img-fluid" src="https://embamex.sre.gob.mx/republicadominicana/images/stories/mapa%20rep%20dom%202.jpg" alt="Foto mapa" />
+    </div>
+</div>
+
+<h4>Ejemplo 2: Imagenes tipo thumbnail</h4>
+
+<!-- thumbnail Le da un marco a la foto y la clase rounded-circle pone la imagen de una forma circular -->
+
+<img class="img-thumbnail rounded-circle" src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1187066325.jpg?crop=1xw:1.0xh;center,top&resize=640:*"/>
+
+
