@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_Glutters-Espacio-Entre-Columnas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c34fc893743ee1f84bb3a4a71c5f81a962c8b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_Glutters-Espacio-Entre-Columnas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_Glutters-Espacio-Entre-Columnas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
