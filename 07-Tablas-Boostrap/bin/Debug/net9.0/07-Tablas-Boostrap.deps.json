@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "07-Tablas-Boostrap/1.0.0": {
+        "runtime": {
+          "07-Tablas-Boostrap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07-Tablas-Boostrap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
