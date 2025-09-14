@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    Sin ratio:
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G9tScR87hGY?si=eFccJ-gk7oW8_oJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<div>
+    Con Ration 16x9 =  16 cm de acho y 9 cm de alto
+</div>
+
+<div class="ratio ratio-16x9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/G9tScR87hGY?si=eFccJ-gk7oW8_oJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<br />
+
+<!-- El ratio es una clase que sirve para mejorar el resposive del video y que este se adapte a la pantalla de los diferentes
+    dispositivos de forma automatica
+
+    ratio-16x9: Es la dimencion que ocupara ese video en este caso 16x9 sera 16 cm de ancho y 9 de alto.
+    ratio-1x1: Es es mas cuadradito y en pantallas grande se ve pequeño.
+    ratio-4x3: Es es mas cuadradito y en pantallas grande se ve pequeño.
+    ratio-21x9:  Es la dimencion que ocupara ese video en este caso 21x9 sera 21 cm de ancho y 9 de alto.
+-->
+
+<h2>Video dentro de columnas </h2>
+
+<div class="row g-3">
+    <div class="col-sm-12 col-lg-6 col-xl-4">
+       <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/G9tScR87hGY?si=eFccJ-gk7oW8_oJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       </div>
+    </div>
+    <div class="col-sm-12 col-lg-6 col-xl-4">
+        <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/G9tScR87hGY?si=eFccJ-gk7oW8_oJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="col-sm-12 col-lg-6 col-xl-4">
+        <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/G9tScR87hGY?si=eFccJ-gk7oW8_oJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
