@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Tamaños en Bootsrap";
+}
+
+<h4>Ejemplo 1: Anchura</h4>
+
+<!--
+  w-25:  anchura 25%
+  w-50:  anchura 50%
+  w-75:  anchura 75%
+  w-100: anchura 100%
+
+  p-3: es un paging de css luego define el espacio con los numero
+  bg-primary: es background para poner color al fondo del div o elemento seleccionado
+-->
+
+<div class="w-25 p-3 bg-primary">Width 25%</div>
+<div class="w-50 p-3 bg-secondary">Width 50%</div>
+<div class="w-75 p-3 bg-primary">Width 75%</div>
+<div class="w-100 p-3 bg-secondary">Width 100%</div>
+<div class="w-auto p-3 bg-primary">Width auto</div>
+
+
+<h4> Ejemplo de Altura</h4>
+<!--
+ h = altura
+ h-25 = significa height: 25%
+ h-auto: crecera en base al contenido que tengan es decir al texto
+ d= display-flex; display-inline; 
+ bg: background-Color
+ flex: Flex-row, Flex-Column, flex-warp, flex-nowarp flex-grow, flex-fill, flex-shink
+
+-->
+
+<div style="height:100px;" class="bg-info">
+    <div class="h-25 d-inline-block bg-primary flex-" style="width:120px;">Height 25%</div>
+    <div class="h-50 d-inline-block bg-secondary flex-" style="width:120px;">Height 50%</div>
+    <div class="h-75 d-inline-block bg-primary flex-" style="width:120px;">Height 75%</div>
+    <div class="h-100 d-inline-block bg-secondary flex-" style="width:120px;">Height 100%</div>
+    <div class="h-auto d-inline-block bg-primary flex-" style="width:120px;">Height auto</div>
+</div>
+
+<h4>Toda la pantalla</h4>
+
+<div class="vw-100 bg-success">Width 100vw</div>
+<div class="vh-100 bg-secondary">Width 100vh</div>
