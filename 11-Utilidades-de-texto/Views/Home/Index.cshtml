@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Utilidades de texto";
+}
+
+<h2>Alineando texto</h2>
+
+<!--
+    text-start: Pone el texto a la izquierda
+    text-center: Pone el texto en el centro
+    text-end: Pone el texto a la derecha
+-->
+
+<p class="text-start bg-primary h-50">Texto a la izquierda</p>
+<p class="text-center bg-secondary h-50">Texto en el centro</p>
+<p class="text-end bg-success  h-50">Texto a la derecha</p>
+
+<p class="text-sm-center">Texto centralizado en pantallas pequeñas o mas grandes</p>
+<p class="text-md-center">Texto centralizado en pantallas medias o mas grandes</p>
+<p class="text-lg-center">Texto centralizado en pantallas grandes o mas grandes</p>
+<p class="text-xl-center">Texto centralizado en pantallas extra grandes o mas grandes</p>
+
+<h2>Texto dentro de su contenedor</h2>
+
+<div class="badge bg-primary text-wrap" style="width:6rem;">
+    Este texto no se sale de su contenedor
+</div>
+
+
+<div class="badge bg-primary text-wrap text-break" style="width:6rem;">
+   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+</div>
+
+<h2>Transformando texto</h2>
+
+<p class="text-lowercase">Minúsculas</p>
+<p class="text-uppercase">Mayúsculas</p>
+<p class="text-capitalize">Cada letra iniciar de una palabra estara en Mayúsculas</p>
+
+<h2>Tamaño de textox</h2>
+
+<!--
+ fs = Font-Size
+
+-->
+
+<p class="fs-1">Fs-1</p>
+<p class="fs-2">Fs-2</p>
+<p class="fs-3">Fs-3</p>
+<p class="fs-4">Fs-4</p>
+<p class="fs-5">Fs-5</p>
+<p class="fs-6">Fs-6</p>
+
+<h2>Estilo del texto</h2>
+
+<!--
+ fw = font-weight  
+ fst- Font-style
+-->
+
+<p class="fw-bold">Negrita</p>
+<p class="fw-bolder">Más Negrita</p>
+<p class="fw-normal">Normal</p>
+
+<p class="fw-light">Texto light</p>
+<p class="fw-lighter">Más light</p>
+<p class="fst-italic">Cursiva</p>
+
+<p class="text-decoration-underline">Subrayado</p>
+<p class="text-decoration-line-through">Linea a través del texto</p>
+
+<h2>Quitar decoración a un enlace</h2>
+
+<a href="#" class="">Enlace con decoración</a>
+
+<br />
+
+<a href="#" class="text-decoration-none">Enlace sin decoración</a>
