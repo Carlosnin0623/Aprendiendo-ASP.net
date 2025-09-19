@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Alertas";
+}
+
+<!-- Alertas Bootstrap -->
+
+<div class="alert alert-primary" role="alert">
+    A simple primary alert-check it out!
+</div>
+
+<div class="alert alert-secondary" role="alert">
+    A simple secondary alert-check it out!
+</div>
+
+<div class="alert alert-success" role="alert">
+    A simple success alert-check it out!
+</div>
+
+<div class="alert alert-danger" role="alert">
+    A simple danger alert-check it out!
+</div>
+
+<div class="alert alert-warning" role="alert">
+    A simple warning alert-check it out!
+</div>
+
+<div class="alert alert-info" role="alert">
+    A simple info alert-check it out!
+</div>
+
+<div class="alert alert-light" role="alert">
+    A simple light alert-check it out!
+</div>
+
+
+<div class="alert alert-dark" role="alert">
+    A simple dark alert-check it out!
+</div>
+
+
+<!-- Boton con alertas -->
+
+<button onclick="mostrarAlertaExitoso()" class="btn btn-primary">Muestra alerta exitoso</button>
+
+<button onclick="mostrarAlertaError()" class="btn btn-primary">Muestra alerta error</button>
+
+
+<div>
+    Las alertas se van a mostrar aquí
+</div>
+
+<div id="contenedor-alertas">
+
+</div>
+
+@section Scripts{
+    <script>
+
+        function mostrarAlertaExitoso(){
+            mostrarAlerta('Este es un mensaje exitoso', 'success');
+        }
+
+        function mostrarAlertaError(){
+            mostrarAlerta('Este es un mensaje de error', 'danger');
+        }
+
+        function mostrarAlerta(mensaje, tipo){
+            const alerta = document.createElement("div");
+                    alerta.innerHTML = `<div class="alert alert-${tipo}" role="alert">
+                                        ${mensaje}
+                                       </div>`;
+
+            const contenedorAlertas = document.getElementById('contenedor-alertas');
+            contenedorAlertas.append(alerta);
+        }
+    </script>
+}
+
+
+
+
