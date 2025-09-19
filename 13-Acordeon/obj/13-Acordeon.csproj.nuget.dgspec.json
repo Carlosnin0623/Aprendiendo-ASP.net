@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj": {}
+    "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj": {
+    "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj",
+        "projectUniqueName": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj",
         "projectName": "13-Acordeon",
-        "projectPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj",
-        "packagesPath": "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\obj\\",
+        "projectPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\13-Acordeon.csproj",
+        "packagesPath": "C:\\Users\\Loteka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\13-Acordeon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Carlos Alberto Nin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Loteka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

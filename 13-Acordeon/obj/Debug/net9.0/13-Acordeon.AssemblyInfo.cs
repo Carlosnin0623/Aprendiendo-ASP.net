@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13-Acordeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb692bd125603414258dde46354d7d6ae6c8f7ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b5f10ea1428ee636e5fca8bfd650e8f1e0f3b91")]
 [assembly: System.Reflection.AssemblyProductAttribute("13-Acordeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13-Acordeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
