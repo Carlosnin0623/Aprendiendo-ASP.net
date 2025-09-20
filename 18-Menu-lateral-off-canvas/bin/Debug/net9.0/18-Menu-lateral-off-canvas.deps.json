@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "18-Menu-lateral-off-canvas/1.0.0": {
+        "runtime": {
+          "18-Menu-lateral-off-canvas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18-Menu-lateral-off-canvas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
