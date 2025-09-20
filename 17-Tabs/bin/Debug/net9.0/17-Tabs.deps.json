@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "17-Tabs/1.0.0": {
+        "runtime": {
+          "17-Tabs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17-Tabs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
