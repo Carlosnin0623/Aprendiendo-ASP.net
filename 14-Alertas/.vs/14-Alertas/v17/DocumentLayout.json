@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\14-alertas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\14-alertas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\14-alertas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\14-alertas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63E5D2C8-6E56-44BF-87FF-C64EF9D3AF87}|14-Alertas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -44,24 +44,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T17:48:58.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T17:48:58.263Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\14-Alertas\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv0sAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-19T17:48:54.587Z",
               "EditorCaption": ""
