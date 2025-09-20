@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "19-Mostrando-Toats/1.0.0": {
+        "runtime": {
+          "19-Mostrando-Toats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19-Mostrando-Toats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
