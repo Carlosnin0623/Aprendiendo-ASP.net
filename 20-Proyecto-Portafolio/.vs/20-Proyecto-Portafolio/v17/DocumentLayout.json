@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\20-proyecto-portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\20-proyecto-portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\20-proyecto-portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|solutionrelative:wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\20-proyecto-portafolio\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\20-proyecto-portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0839C9-D0E9-4B81-AE33-A411D5F6CD8F}|20-Proyecto-Portafolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:31:44.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:07:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T16:10:28.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Custom.css",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\wwwroot\\css\\Custom.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Custom.css",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\wwwroot\\css\\Custom.css",
+              "RelativeToolTip": "wwwroot\\css\\Custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-21T16:08:25.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\20-Proyecto-Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T15:01:28.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

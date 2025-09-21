@@ -1,0 +1,22 @@
+﻿<!-- Recibir datos del controlador usando modelos fuertemente tipados -->
+
+<!-- Importamos el modelo Persona -->
+@model Persona 
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    <!--   
+        Aqui estamos aplicando ViewBag.Nombre para acceder al valor guardado
+        en la propiedad nombre = Carlos  Nin2
+    -->
+
+    <h1 class="display-4">Soy @Model.Nombre y tengo @Model.Edad años de edad</h1>
+    <h2>Soy un desarrollador full stack especializado en tecnologias .NET y Javascript</h2>
+
+    <!-- alt 126 para poner este simbolo ~ -->
+    <img class="foto" src="~/Imagenes/FotoCarlos.png" alt="Foto de Carlos Nin" />
+</div>
