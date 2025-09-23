@@ -11,6 +11,8 @@
 
     <!-- Debes poner el atributo asp-append-version="true" si quieres siempre la version
       mas actualziada el css y no se quede con una version vieja en cache
+
+      usa alt + 126 para crear este simbolo ~
     -->
     <link rel="stylesheet" href="~/css/Custom.css" type="text/css"  asp-append-version="true"/>
 
@@ -32,6 +34,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -46,6 +51,7 @@
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2025 - _20_Proyecto_Portafolio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - _20_Proyecto_Portafolio - <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

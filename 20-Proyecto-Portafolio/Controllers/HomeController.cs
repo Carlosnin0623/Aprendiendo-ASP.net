@@ -32,6 +32,18 @@ namespace _20_Proyecto_Portafolio.Controllers
             return View();
         }
 
+        public IActionResult Contact()
+        {
+            var persona = new Persona()
+            {
+                Nombre = "Carlos Alberto",
+                Edad = 15,
+                Sexo = "Masculino"
+            };
+
+            return View(persona);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

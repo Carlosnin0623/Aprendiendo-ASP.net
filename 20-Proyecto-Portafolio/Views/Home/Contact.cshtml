@@ -1,0 +1,35 @@
+﻿
+@model Persona
+
+
+@{
+    ViewData["Title"] = "Pagina de Contactos";
+}
+
+@{
+
+    string MostrarEnMayusculas(string valor)
+    {
+        return valor.ToUpper() + " ZZZ";
+    }
+
+}
+
+
+
+<h2>Esta es la pagina de contactos Mi nombre es @MostrarEnMayusculas(Model.Nombre) y mi edad es @Model.Edad </h2>
+
+
+@{
+    if(Model.Edad >= 18)
+    {
+        <h4>Tu eres mayor de edad! Puedes pasar <button type="button">Entrar</button></h4>
+    }
+    else
+    {
+        <h4>Tu eres menor de edad! No puedes pasar!</h4>
+    }
+
+}
+
+<h2> Mi género es: @Model.Sexo </h2>
