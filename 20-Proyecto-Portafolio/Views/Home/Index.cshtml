@@ -7,6 +7,24 @@
     ViewData["Title"] = "Home Page";
 }
 
+
+@{
+    string ConvertirMayusculas(string valor)
+    {
+        return valor.ToUpper();
+    }
+
+    /* Añadiendo hora con el tipo datetime */
+
+    DateTime hoy = DateTime.Now;
+
+
+    /* Listado de nombres con listas */
+
+    var nombres = new List<string>() { "Felipe", "Carlos", "Antonio" };
+}
+
+
 <div class="text-center">
 
     <!--   
@@ -14,8 +32,30 @@
         en la propiedad nombre = Carlos  Nin2
     -->
 
-    <h1 class="display-4">Soy @Model.Nombre y tengo @Model.Edad años de edad</h1>
+    <h1 class="display-4">Soy @ConvertirMayusculas(Model.Nombre) y tengo @Model.Edad años de edad</h1>
     <h2>Soy un desarrollador full stack especializado en tecnologias .NET y Javascript</h2>
+    <h3>La fecha es: @hoy.ToString("yyyy-MM-dd hh:mm:ss tt")</h3>
+
+
+    @{
+        if(Model.Edad >= 18)
+        {
+            <h2>Soy mayor de edad y vivo en Santo Domingo</h2>
+        }
+        else
+        {
+           <h2>Toddavía no cumplo los 18 años de edad y vivo en Santo Domingo</h2>
+        }
+    }
+
+    <!-- De esta forma hacemos un foreach en  asp.net -->
+    <ul>
+    @foreach(var nombre in nombres)
+    {
+        <li>@nombre</li>
+    }
+    </ul>
+
 
     <!-- alt 126 para poner este simbolo ~ -->
     <img class="foto" src="~/Imagenes/FotoCarlos.png" alt="Foto de Carlos Nin" />

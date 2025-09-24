@@ -21,7 +21,8 @@ namespace _20_Proyecto_Portafolio.Controllers
             var persona = new Persona()
             {
                 Nombre = "Carlos Alberto",
-                Edad = 28
+                Edad = 28,
+                Sexo = "Hombre"
             };
 
             return View(persona);
@@ -38,7 +39,7 @@ namespace _20_Proyecto_Portafolio.Controllers
             {
                 Nombre = "Carlos Alberto",
                 Edad = 15,
-                Sexo = "Masculino"
+                Sexo = "Hombre"
             };
 
             return View(persona);
