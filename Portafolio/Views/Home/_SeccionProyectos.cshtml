@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Proyecto>
+
+
+@if (Model != null && Model.Any())
+{
+    <div class="text-center" style="padding-top: 6rem; ">
+        <h1>Mis trabajos recientes</h1>
+        <p>Aquí puedes ver algunos de mis trabajos mas recientes</p>
+    </div>
+
+    <partial name="_ListadoProyectos" model="Model"/>
+}
+else
+{
+    <div class="text-center" style="padding-top: 6rem; ">
+        <h1>Mis trabajos recientes</h1>
+        <p>No hay trabajos pendientes para mostrar</p>
+    </div>
+}
+
