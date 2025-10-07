@@ -1,13 +1,15 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ManejoPresupuesto.Validaciones;
+using System.ComponentModel.DataAnnotations;
 
 namespace ManejoPresupuesto.Models
 {
-    public class TipoCuenta
+    public class TipoCuenta //:  IValidatableObject // Validacion por modelo
     {
         public int Id { get; set; }
 
         // Validaciones al campo nombre del formulario con asp.net 
         [Required(ErrorMessage = "El campo {0} es requerido")]
+        [PrimeraLetraMayuscula]
         public string Nombre { get; set; }
 
         public int UsuarioId { get; set; }
@@ -33,7 +35,22 @@ namespace ManejoPresupuesto.Models
 
          */
 
+        /* Esta validacion es a nivel de campo no a nivel de modelo esta para conocimiento 
 
+        IEnumerable<ValidationResult> IValidatableObject.Validate(ValidationContext validationContext)
+        {
+           if(Nombre != null && Nombre.Length > 0)
+            {
+                var primeraLetra = Nombre.ToString()[0].ToString();
+
+                if(primeraLetra != primeraLetra.ToUpper())
+                {
+                  // new[] { nameof(Nombre) Con esto le estamos diciendo que este error le corresponde al campo nombre 
+                    yield return new ValidationResult("La primera letra debe ser mayúscula", new[] { nameof(Nombre) });
+                }
+            }
+        }
+        */
     }
 
 

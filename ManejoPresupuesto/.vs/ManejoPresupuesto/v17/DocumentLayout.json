@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\",
+  "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\manejopresupuesto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\loteka\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,66 +49,70 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T19:22:31.948Z",
+              "DocumentIndex": 3,
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:17:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:10:16.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\TiposCuentas\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Crear.cshtml",
               "RelativeToolTip": "Views\\TiposCuentas\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-03T16:54:45.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManejoPresupuesto",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
-              "RelativeDocumentMoniker": "ManejoPresupuesto.csproj",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
-              "RelativeToolTip": "ManejoPresupuesto.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-03T16:50:53.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TipoCuenta.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
               "RelativeDocumentMoniker": "Models\\TipoCuenta.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
               "RelativeToolTip": "Models\\TipoCuenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T16:49:26.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TiposCuentasController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
               "RelativeDocumentMoniker": "Controllers\\TiposCuentasController.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
               "RelativeToolTip": "Controllers\\TiposCuentasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T16:46:41.641Z",
               "EditorCaption": ""
