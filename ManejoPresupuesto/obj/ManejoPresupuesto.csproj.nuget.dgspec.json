@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
+    "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
+    "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "projectName": "ManejoPresupuesto",
-        "projectPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
-        "packagesPath": "C:\\Users\\Loteka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Loteka\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\obj\\",
+        "projectPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "packagesPath": "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Loteka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos Alberto Nin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
