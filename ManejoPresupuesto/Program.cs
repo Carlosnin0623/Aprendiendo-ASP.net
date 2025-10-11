@@ -4,6 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+/* Servicio Transitorio para la interfaz tipo Cuentas */
 builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>();
 
 var app = builder.Build();
