@@ -244,3 +244,10 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\De
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\ManejoPresupuesto.csproj.AssemblyReference.cache
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\ManejoPr.43BBE251.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.Mvc.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.Razor.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.Helpers.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.WebPages.Deployment.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.WebPages.Razor.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.WebPages.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\Microsoft.Web.Infrastructure.dll

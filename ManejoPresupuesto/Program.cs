@@ -7,6 +7,12 @@ builder.Services.AddControllersWithViews();
 /* Servicio Transitorio para la interfaz tipo Cuentas */
 builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>();
 
+/* Servicio para obtener usuario id Temportal */
+builder.Services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
+
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

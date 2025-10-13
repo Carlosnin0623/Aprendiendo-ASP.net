@@ -1,5 +1,7 @@
 ﻿using ManejoPresupuesto.Validaciones;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace ManejoPresupuesto.Models
 {
@@ -10,6 +12,7 @@ namespace ManejoPresupuesto.Models
         // Validaciones al campo nombre del formulario con asp.net 
         [Required(ErrorMessage = "El campo {0} es requerido")]
         [PrimeraLetraMayuscula]
+        [Remote(action:"VerificarExisteTipoCuenta", controller:"TiposCuentas")]
         public string Nombre { get; set; }
 
         public int UsuarioId { get; set; }
