@@ -43,8 +43,8 @@ namespace ManejoPresupuesto.Controllers
             if(!ModelState.IsValid)
             {
                 return View(tipoCuenta);
-             
 
+            }
             tipoCuenta.UsuarioId = servicioUsuarios.ObtenerUsuarioId();
 
             // Validando si el tipo cuenta existe

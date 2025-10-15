@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\tiposcuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:views\\tiposcuentas\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\views\\home\\noencontrado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|c:\\users\\carlos alberto nin\\desktop\\aprendiendo-asp.net\\manejopresupuesto\\servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49FCED25-2D6D-4590-B6A2-154EC8C06153}|ManejoPresupuesto.csproj|solutionrelative:servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T01:42:41.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\TiposCuentas\\Index.cshtml",
               "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Index.cshtml",
               "RelativeToolTip": "Views\\TiposCuentas\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-13T00:01:54.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "NoEncontrado.cshtml",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\Home\\NoEncontrado.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\NoEncontrado.cshtml",
@@ -79,12 +100,11 @@
               "RelativeToolTip": "Views\\Home\\NoEncontrado.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:58:38.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T23:58:38.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -92,12 +112,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T23:56:38.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T23:56:38.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\TiposCuentas\\Crear.cshtml",
@@ -110,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Views\\TiposCuentas\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\TiposCuentas\\Editar.cshtml",
@@ -118,8 +137,7 @@
               "RelativeToolTip": "Views\\TiposCuentas\\Editar.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:42:14.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T23:42:14.77Z"
             },
             {
               "$type": "Document",
@@ -129,22 +147,35 @@
               "RelativeDocumentMoniker": "Controllers\\TiposCuentasController.cs",
               "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
               "RelativeToolTip": "Controllers\\TiposCuentasController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T23:17:46.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "RepositorioTiposCuentas.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
               "RelativeDocumentMoniker": "Servicios\\RepositorioTiposCuentas.cs",
               "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
               "RelativeToolTip": "Servicios\\RepositorioTiposCuentas.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwBAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T23:56:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "RelativeDocumentMoniker": "Models\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "RelativeToolTip": "Models\\TipoCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:29:41.59Z",
               "EditorCaption": ""
             }
           ]
