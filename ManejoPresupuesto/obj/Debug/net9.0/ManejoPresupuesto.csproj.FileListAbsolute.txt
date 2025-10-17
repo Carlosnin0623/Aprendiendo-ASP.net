@@ -251,3 +251,17 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\De
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.WebPages.Razor.dll
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\System.Web.WebPages.dll
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\4u0e70i991-72bi5bmqwh.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\p737kc8enk-0i3buxo5is.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\2gfn30r3yw-2jvjnlz339.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\n2kads0pit-nr5zftr3vh.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\nr10vtgkgp-3de1nhugwi.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\dgakven33d-xlfsqd798a.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\c4u8ditloy-if5udyg90s.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\cze5iec54e-xmuqfn50qh.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\kci6xpf8c7-0avc6en0p3.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\7l0hi8khwj-s0k6h7qcks.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\0i5omi8z9m-8kjarcocxj.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\gf230858wv-mtq9ih5pls.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\uz7bi5zou5-qaocao8vyd.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-3wu6rmzvuq.gz

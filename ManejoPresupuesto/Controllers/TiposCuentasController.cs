@@ -113,5 +113,59 @@ namespace ManejoPresupuesto.Controllers
             return Json(true);
 
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Borrar(int id)
+        {
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+
+            var tipoCuenta = await repositorioTiposCuentas.ObtenerPorId(id, usuarioId);
+
+            if(tipoCuenta is null)
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+            }
+
+            return View(tipoCuenta);
+
+        }
+
+     
+
+        /* Aqui estoy recibiendo ids para guardar el orden en la base de datos usando json javascript 
+          en la pagina index de la vista TipoCuenta
+
+           [FromBody] recoge los datos enviados por Json atravez del metodo post
+
+         */
+        [HttpPost]
+        public async Task<IActionResult> Ordenar([FromBody] int[] ids)
+        {
+
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+
+            var tiposCuentas = await repositorioTiposCuentas.Obtener(usuarioId);
+
+
+            var idsTiposCuentas = tiposCuentas.Select(x => x.Id);
+
+
+            var idsTiposCuentasNoPertenecenAlUsuario = ids.Except(idsTiposCuentas).ToList();
+
+
+            if(idsTiposCuentasNoPertenecenAlUsuario.Count > 0)
+            {
+                return Forbid();
+            }
+
+            var tiposCuentasOrdenados = ids.Select((valor, indice) => 
+            new TipoCuenta() { Id = valor, Orden = indice + 1}).AsEnumerable();
+
+
+            await repositorioTiposCuentas.Ordenar(tiposCuentasOrdenados);
+
+            return Ok();
+        }
+
     }
 }

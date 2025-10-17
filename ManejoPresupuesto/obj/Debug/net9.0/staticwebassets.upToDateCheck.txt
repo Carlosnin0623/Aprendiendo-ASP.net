@@ -61,6 +61,26 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-ui\package.json
+wwwroot\lib\jquery-ui\LICENSE.txt
+wwwroot\lib\jquery-ui\jquery-ui.theme.min.css
+wwwroot\lib\jquery-ui\jquery-ui.theme.css
+wwwroot\lib\jquery-ui\jquery-ui.structure.min.css
+wwwroot\lib\jquery-ui\jquery-ui.structure.css
+wwwroot\lib\jquery-ui\jquery-ui.min.js
+wwwroot\lib\jquery-ui\jquery-ui.min.css
+wwwroot\lib\jquery-ui\jquery-ui.js
+wwwroot\lib\jquery-ui\jquery-ui.css
+wwwroot\lib\jquery-ui\index.html
+wwwroot\lib\jquery-ui\images\ui-icons_ffffff_256x240.png
+wwwroot\lib\jquery-ui\images\ui-icons_cc0000_256x240.png
+wwwroot\lib\jquery-ui\images\ui-icons_777777_256x240.png
+wwwroot\lib\jquery-ui\images\ui-icons_777620_256x240.png
+wwwroot\lib\jquery-ui\images\ui-icons_555555_256x240.png
+wwwroot\lib\jquery-ui\images\ui-icons_444444_256x240.png
+wwwroot\lib\jquery-ui\external\jquery\jquery.js
+wwwroot\lib\jquery-ui\AUTHORS.txt
+wwwroot\css\custom.css
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\css\site.css
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\favicon.ico
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\js\site.js
@@ -123,3 +143,17 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroo
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\AUTHORS.txt
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\external\jquery\jquery.js
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\index.html
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.js
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.min.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.min.js
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.structure.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.structure.min.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.theme.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.theme.min.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\LICENSE.txt
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\lib\jquery-ui\package.json
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\wwwroot\css\custom.css
