@@ -10,6 +10,9 @@ builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>
 /* Servicio para obtener usuario id Temportal */
 builder.Services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
 
+/* Servicio para Tabla Cuenta */
+builder.Services.AddTransient<IRepositorioCuentas, RepositorioCuentas>();
+
 
 
 

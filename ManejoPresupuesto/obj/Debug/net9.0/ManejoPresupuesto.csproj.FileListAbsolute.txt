@@ -84,8 +84,6 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\De
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\8cqz6qav7m-muycvpuwrr.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\ch48w23j8d-87fc7y1x7t.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\3cl66t5cbc-mlv21k5csn.gz
-C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\d5gepkikfp-9dypikwo71.gz
-C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\9w4vefbcx1-9dypikwo71.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\staticwebassets.development.json
@@ -264,4 +262,7 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\De
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\0i5omi8z9m-8kjarcocxj.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\gf230858wv-mtq9ih5pls.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\uz7bi5zou5-qaocao8vyd.gz
-C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-3wu6rmzvuq.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-dbpbzt7tho.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\d5gepkikfp-2b7zxi7m5o.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\9w4vefbcx1-2b7zxi7m5o.gz
