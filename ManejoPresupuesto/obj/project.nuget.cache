@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YUkhEzdHLtM=",
+  "dgSpecHash": "9/Cm+XCqr1I=",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Aprendiendo-ASP.net\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
     "C:\\Users\\Carlos Alberto Nin\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",

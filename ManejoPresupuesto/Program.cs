@@ -1,4 +1,5 @@
 using ManejoPresupuesto.Servicios;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +14,12 @@ builder.Services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
 /* Servicio para Tabla Cuenta */
 builder.Services.AddTransient<IRepositorioCuentas, RepositorioCuentas>();
 
+/* Repositorio Categorias */
+builder.Services.AddTransient<IRepositorioCategorias, RepositorioCategorias>();
 
+/* Configurando Mapeador */
+
+builder.Services.AddAutoMapper(typeof(Program));
 
 
 var app = builder.Build();

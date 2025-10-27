@@ -266,3 +266,4 @@ C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\De
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-dbpbzt7tho.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\d5gepkikfp-2b7zxi7m5o.gz
 C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\obj\Debug\net9.0\compressed\9w4vefbcx1-2b7zxi7m5o.gz
+C:\Users\Carlos Alberto Nin\Desktop\Aprendiendo-ASP.net\ManejoPresupuesto\bin\Debug\net9.0\AutoMapper.dll
